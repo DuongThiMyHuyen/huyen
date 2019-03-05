@@ -13,6 +13,12 @@
             Width="100"
             Content="Show"
             Click="btnShow_Click"/>
+        <Button
+           x:Name="btnShow1"
+           Height="35"
+            Width="100"
+            Content="Show1"
+            Click="btnShow_Click" Margin="208,216,209,68"/>
 
     </Grid>
     
